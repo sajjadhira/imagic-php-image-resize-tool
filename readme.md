@@ -1,0 +1,1 @@
+This application will resize images with variant size and quality.
